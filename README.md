@@ -2,7 +2,7 @@
 Search context menu plugin for BetterDiscord
 Searches by AppName (/app/)
 
-![Example](https://i.imgur.com/vCf9xPs.png)
+![Example](https://i.imgur.com/N7IQ1kE.png)
 
 # How to install
 1. Make sure BetterDiscord is installed
