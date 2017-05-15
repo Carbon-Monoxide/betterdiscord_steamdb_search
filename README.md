@@ -1,5 +1,8 @@
 # BetterDiscord SteamDB AppName Search
 Search context menu plugin for BetterDiscord
+Searches by AppName (/app/)
+
+![Example](https://cdn.discordapp.com/attachments/187322260514668556/313542076669362186/unknown.png)
 
 # How to install
 1. Make sure BetterDiscord is installed
@@ -9,4 +12,5 @@ Search context menu plugin for BetterDiscord
 5. ??
 6. Profit!
 
+---
 Thanks [Ckath](https://github.com/Ckath) for useful examples of how to write such things.
