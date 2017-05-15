@@ -31,7 +31,7 @@ searchSteamDBAppOption.prototype.getSettingsPanel = function(){
     return "";
 };
 searchSteamDBAppOption.prototype.getName = function(){
-    return "Search App on SteamDB";
+    return "Search on SteamDB";
 };
 searchSteamDBAppOption.prototype.getDescription = function(){
     return "Adds option to search text among apps on SteamDB";
