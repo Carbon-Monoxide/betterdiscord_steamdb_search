@@ -6,7 +6,7 @@ Searches by AppName (/app/)
 
 # How to install
 1. Make sure BetterDiscord is installed
-2. Plugin plugin in C:\Users\<Username>\AppData\Roaming\BetterDiscord\plugins or alternative part to BetterDiscord\plugins in linux.
+2. Put plugin in C:\Users\<Username>\AppData\Roaming\BetterDiscord\plugins or alternative part to BetterDiscord\plugins in linux.
 3. Restart Discord
 4. Enable plugin in BetterDiscord options
 5. ??
